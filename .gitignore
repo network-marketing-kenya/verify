@@ -1,0 +1,17 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+git_push.js
+git_push.ts
+
+git_push_update.js
+
+git_push_final.js
+
+git_push_latest.js
